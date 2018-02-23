@@ -1,0 +1,6 @@
+{
+    "colorFile": "/home/jack/Applications/House3D/House3D/metadata/colormap_coarse.csv",
+    "roomTargetFile": "/home/jack/Applications/House3D/House3D/metadata/room_target_object_map.csv",
+    "modelCategoryFile": "/home/jack/Applications/House3D/House3D/metadata/ModelCategoryMapping.csv",
+    "prefix": "/home/jack/Program/Visual-Navigation/SUNCG/house"
+}
